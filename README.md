@@ -9,7 +9,7 @@
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/don-cryptus/don-cryptus/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/don-cryptus/don-cryptus/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
-## 🚀💻 Technologies & Tools
+## 🚀 Technologies & Tools
 
 ### Languages
 
@@ -68,6 +68,12 @@
 </p>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Don-Cryptus&theme=onedark&column=-1)
+
+
+
+## 💻 My Projects
+
+### Websites
 
 <p align="center">
     <img height="125px" src="https://github-readme-stats.vercel.app/api/pin/?username=don-cryptus&repo=echat&theme=react&bg_color=1F222E&title_color=fff&icon_color=F8D866&hide_border=true&show_icons=false" />
