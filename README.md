@@ -76,6 +76,6 @@
 ### Websites
 
 <p align="center">
-    <img height="125px" src="https://github-readme-stats.vercel.app/api/pin/?username=don-cryptus&repo=echat&theme=react&bg_color=1F222E&title_color=fff&icon_color=F8D866&hide_border=true&show_icons=false" />
-    <img height="125px" src="https://github-readme-stats.vercel.app/api/pin/?username=don-cryptus&repo=echat&theme=react&bg_color=1F222E&title_color=fff&icon_color=F8D866&hide_border=true&show_icons=false" />
+    <img height="125px" src="https://github-readme-stats.vercel.app/api/pin/?username=don-cryptus&repo=echat&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
+    <img height="125px" src="https://github-readme-stats.vercel.app/api/pin/?username=don-cryptus&repo=echat&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
 </p>
