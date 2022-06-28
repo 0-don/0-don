@@ -7,6 +7,8 @@
     <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=Don-Cryptus&style=for-the-badge&color=lightgrey"/></a>
 </p>
 
+![github contribution grid snake animation](https://raw.githubusercontent.com/don-cryptus/don-cryptus/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/don-cryptus/don-cryptus/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
 ## 🚀💻 Technologies & Tools
 
 ### Languages
@@ -67,5 +69,3 @@ https://github.com/holic-x/holic-x
 https://github.com/zumrudu-anka/zumrudu-anka
 
 https://github.com/DenverCoder1/DenverCoder1
-
-<img src="https://cdn.jsdelivr.net/gh/don-cryptus/don-cryptus/assets/github-contribution-grid-snake.svg" />
