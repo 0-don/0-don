@@ -129,3 +129,11 @@
     <img height="125px" src="https://github-readme-stats.vercel.app/api/pin/?username=don-cryptus&repo=clippy&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
   </p>
 </details>
+
+<details>
+  <summary><b>💻 &nbsp;API</b></summary>
+  <br/>
+  <p align="center">
+    <img height="125px" src="https://github-readme-stats.vercel.app/api/pin/?username=don-cryptus&repo=igdb-graphql&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
+  </p>
+</details>
