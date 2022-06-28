@@ -58,13 +58,19 @@
 
 ## ⚡ GitHub Stats
 
+<br/>
+<p align="center">
+    <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=don-cryptus&hide_border=true&theme=nightowl" />
+</p>
+<p align="center">
+    <img height="137px" src="https://github-readme-stats.vercel.app/api?username=don-cryptus&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=don-cryptus&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
+</p>
+
 ![trophy](https://github-profile-trophy.vercel.app/?username=Don-Cryptus&theme=onedark&column=-1)
 
 https://github.com/SP-XD/SP-XD
 
 https://github.com/brunotacca/brunotacca
-
-https://github.com/holic-x/holic-x
 
 https://github.com/zumrudu-anka/zumrudu-anka
 
