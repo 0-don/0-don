@@ -42,6 +42,8 @@
 
 ### DevOps & Tools
 
+![vscode](https://img.shields.io/badge/vscode-black?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
+![git](https://img.shields.io/badge/git-black?style=flat-square&logo=git)
 ![windows](https://img.shields.io/badge/windows-black?style=flat-square&logo=windows&logoColor=0078D6)
 ![linux](https://img.shields.io/badge/linux-black?style=flat-square&logo=linux)
 ![github](https://img.shields.io/badge/github-black?style=flat-square&logo=github)
@@ -52,6 +54,7 @@
 ![mysql](https://img.shields.io/badge/mysql-black?style=flat-square&logo=mysql)
 ![firebase](https://img.shields.io/badge/firebase-black?style=flat-square&logo=firebase)
 ![android](https://img.shields.io/badge/android-black?style=flat-square&logo=android)
+![gitkraken](https://img.shields.io/badge/gitkraken-black?style=flat-square&logo=gitkraken)
 ![bitwarden](https://img.shields.io/badge/bitwarden-black?style=flat-square&logo=bitwarden&logoColor=175DDC)
 ![wordpress](https://img.shields.io/badge/wordpress-black?style=flat-square&logo=wordpress)
 ![joomla](https://img.shields.io/badge/joomla-black?style=flat-square&logo=joomla)
@@ -66,10 +69,7 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Don-Cryptus&theme=onedark&column=-1)
 
-https://github.com/SP-XD/SP-XD
-
-https://github.com/brunotacca/brunotacca
-
-https://github.com/zumrudu-anka/zumrudu-anka
-
-https://github.com/DenverCoder1/DenverCoder1
+<p align="center">
+    <img height="186px" src="https://github-readme-stats.vercel.app/api/pin/?username=don-cryptus&repo=echat&theme=react&bg_color=1F222E&title_color=fff&icon_color=F8D866&hide_border=true&show_icons=false" />
+    <img height="186px" src="https://github-readme-stats.vercel.app/api/pin/?username=don-cryptus&repo=echat&theme=react&bg_color=1F222E&title_color=fff&icon_color=F8D866&hide_border=true&show_icons=false" />
+</p>
