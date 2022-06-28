@@ -27,6 +27,23 @@
 ![express](https://img.shields.io/badge/express-black?style=flat-square&logo=express)
 ![puppeteer](https://img.shields.io/badge/puppeteer-black?style=flat-square&logo=puppeteer)
 ![selenium](https://img.shields.io/badge/selenium-black?style=flat-square&logo=selenium)
+![bootstrap](https://img.shields.io/badge/bootstrap-black?style=flat-square&logo=bootstrap)
+
+### DevOps & Tools
+
+![windows](https://img.shields.io/badge/windows-black?style=flat-square&logo=windows&logoColor=0078D6)
+![linux](https://img.shields.io/badge/linux-black?style=flat-square&logo=linux)
+![github](https://img.shields.io/badge/github-black?style=flat-square&logo=github)
+![github actions](https://img.shields.io/badge/github_actions-black?style=flat-square&logo=github-actions)
+![docker](https://img.shields.io/badge/docker-black?style=flat-square&logo=docker)
+![postgresql](https://img.shields.io/badge/postgresql-black?style=flat-square&logo=postgresql)
+![mongodb](https://img.shields.io/badge/mongodb-black?style=flat-square&logo=mongodb)
+![mysql](https://img.shields.io/badge/mysql-black?style=flat-square&logo=mysql)
+![firebase](https://img.shields.io/badge/firebase-black?style=flat-square&logo=firebase)
+![android](https://img.shields.io/badge/android-black?style=flat-square&logo=android)
+![bitwarden](https://img.shields.io/badge/bitwarden-black?style=flat-square&logo=bitwarden&logoColor=175DDC)
+![wordpress](https://img.shields.io/badge/wordpress-black?style=flat-square&logo=wordpress)
+![joomla](https://img.shields.io/badge/joomla-black?style=flat-square&logo=joomla)
 
 
 ## ⚡ GitHub Stats
