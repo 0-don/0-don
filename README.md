@@ -70,6 +70,6 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=Don-Cryptus&theme=onedark&column=-1)
 
 <p align="center">
-    <img height="134px" src="https://github-readme-stats.vercel.app/api/pin/?username=don-cryptus&repo=echat&theme=react&bg_color=1F222E&title_color=fff&icon_color=F8D866&hide_border=true&show_icons=false" />
-    <img height="134px" src="https://github-readme-stats.vercel.app/api/pin/?username=don-cryptus&repo=echat&theme=react&bg_color=1F222E&title_color=fff&icon_color=F8D866&hide_border=true&show_icons=false" />
+    <img height="133px" src="https://github-readme-stats.vercel.app/api/pin/?username=don-cryptus&repo=echat&theme=react&bg_color=1F222E&title_color=fff&icon_color=F8D866&hide_border=true&show_icons=false" />
+    <img height="133px" src="https://github-readme-stats.vercel.app/api/pin/?username=don-cryptus&repo=echat&theme=react&bg_color=1F222E&title_color=fff&icon_color=F8D866&hide_border=true&show_icons=false" />
 </p>
