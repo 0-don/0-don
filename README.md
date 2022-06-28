@@ -1,6 +1,6 @@
 <h2> Github Stats </h2> 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Don-Cryptus&theme=onedark&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=Don-Cryptus&theme=onedark&column=-1)
 
 ![](https://komarev.com/ghpvc/?username=Don-Cryptus&color=brightgreen)
 
