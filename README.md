@@ -80,11 +80,17 @@
     <a href="https://github.com/Don-Cryptus/coding.global-bot">
       <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=don-cryptus&repo=coding.global-bot&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
     </a>
-    <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=don-cryptus&repo=coding.global-web&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
+    <a href="https://github.com/Don-Cryptus/coding.global-web">
+     <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=don-cryptus&repo=coding.global-web&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
+    </a>
   </p>
   <p align="center">
-    <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=don-cryptus&repo=DiscordCustomUrlSniper&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
-    <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=don-cryptus&repo=DisboardBumpBot&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
+    <a href="https://github.com/Don-Cryptus/DiscordCustomUrlSniper">
+      <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=don-cryptus&repo=DiscordCustomUrlSniper&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
+    </a>
+    <a href="https://github.com/Don-Cryptus/DisboardBumpBot">
+      <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=don-cryptus&repo=DisboardBumpBot&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
+    </a>
 </p>
 </details>
 
@@ -92,16 +98,25 @@
   <summary><b>🌐 &nbsp;Websites</b></summary>
   <br/>
   <p align="center">
-    <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=don-cryptus&repo=echat&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
-    <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=don-cryptus&repo=palarm&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
+    <a href="https://github.com/Don-Cryptus/echat">
+      <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=don-cryptus&repo=echat&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
+    </a>
+    <a href="https://github.com/Don-Cryptus/palarm">
+      <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=don-cryptus&repo=palarm&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
+    </a>
   </p>
   <p align="center">
-    <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=don-cryptus&repo=clips&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
-    <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=don-cryptus&repo=spring-boot-ecommerce&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
+    <a href="https://github.com/Don-Cryptus/clips">
+      <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=don-cryptus&repo=clips&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
+    </a>
+    <a href="https://github.com/Don-Cryptus/spring-boot-ecommerce">
+      <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=don-cryptus&repo=spring-boot-ecommerce&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
+    </a>
   </p>
   <p align="center">
-    <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=don-cryptus&repo=cashclock&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
-
+    <a href="https://github.com/Don-Cryptus/cashclock">
+      <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=don-cryptus&repo=cashclock&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
+    </a>
   </p>
 </details>
 
@@ -109,11 +124,17 @@
   <summary><b>⚙️ &nbsp;DevOps</b></summary>
   <br/>
   <p align="center">
-    <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=don-cryptus&repo=traefik&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
-    <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=don-cryptus&repo=portainer&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
+    <a href="https://github.com/Don-Cryptus/traefik">
+      <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=don-cryptus&repo=traefik&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
+    </a>
+    <a href="https://github.com/Don-Cryptus/portainer">
+      <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=don-cryptus&repo=portainer&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
+    </a>
   </p>
   <p align="center">
-    <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=don-cryptus&repo=self-hosted-runner&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
+    <a href="https://github.com/Don-Cryptus/self-hosted-runner">
+      <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=don-cryptus&repo=self-hosted-runner&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
+    </a>
   </p>
 </details>
 
@@ -121,8 +142,12 @@
   <summary><b>📱 &nbsp;Mobile</b></summary>
   <br/>
   <p align="center">
-    <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=don-cryptus&repo=world-of-gaming&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
-    <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=don-cryptus&repo=MealsToGo&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
+    <a href="https://github.com/Don-Cryptus/world-of-gaming">
+      <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=don-cryptus&repo=world-of-gaming&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
+    </a>
+    <a href="https://github.com/Don-Cryptus/MealsToGo">
+      <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=don-cryptus&repo=MealsToGo&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
+    </a>
   </p>
 </details>
 
@@ -130,7 +155,9 @@
   <summary><b>🖥️ &nbsp;Desktop</b></summary>
   <br/>
   <p align="center">
-    <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=don-cryptus&repo=clippy&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
+    <a href="https://github.com/Don-Cryptus/clippy">
+      <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=don-cryptus&repo=clippy&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
+    </a>
   </p>
 </details>
 
@@ -138,6 +165,8 @@
   <summary><b>💻 &nbsp;API</b></summary>
   <br/>
   <p align="center">
-    <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=don-cryptus&repo=igdb-graphql&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
+    <a href="https://github.com/Don-Cryptus/igdb-graphql">
+      <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=don-cryptus&repo=igdb-graphql&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
+    </a>
   </p>
 </details>
