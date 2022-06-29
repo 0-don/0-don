@@ -35,6 +35,7 @@
 ![react-native](https://img.shields.io/badge/react_native-black?style=flat-square&logo=react)
 ![angular](https://img.shields.io/badge/angular-black?style=flat-square&logo=angular&logoColor=DD0031)
 ![spring](https://img.shields.io/badge/spring-black?style=flat-square&logo=spring)
+![hibernate](https://img.shields.io/badge/hibernate-black?style=flat-square&logo=hibernate)
 ![express](https://img.shields.io/badge/express-black?style=flat-square&logo=express)
 ![puppeteer](https://img.shields.io/badge/puppeteer-black?style=flat-square&logo=puppeteer)
 ![selenium](https://img.shields.io/badge/selenium-black?style=flat-square&logo=selenium)
@@ -43,6 +44,7 @@
 ### DevOps & Tools
 
 ![vscode](https://img.shields.io/badge/vscode-black?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
+![intellij](https://img.shields.io/badge/intellij-black?style=flat-square&logo=intellij-idea)
 ![git](https://img.shields.io/badge/git-black?style=flat-square&logo=git)
 ![windows](https://img.shields.io/badge/windows-black?style=flat-square&logo=windows&logoColor=0078D6)
 ![linux](https://img.shields.io/badge/linux-black?style=flat-square&logo=linux)
