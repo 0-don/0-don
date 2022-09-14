@@ -26,6 +26,8 @@
 
 ### Technologies & Frameworks
 
+![spring](https://img.shields.io/badge/spring-black?style=flat-square&logo=spring)
+![hibernate](https://img.shields.io/badge/hibernate-black?style=flat-square&logo=hibernate)
 ![css3](https://img.shields.io/badge/css3-black?style=flat-square&logo=css3&logoColor=1572B6)
 ![html5](https://img.shields.io/badge/html5-black?style=flat-square&logo=html5)
 ![tailwindcss](https://img.shields.io/badge/tailwindcss-black?style=flat-square&logo=tailwindcss)
@@ -39,8 +41,6 @@
 ![electron](https://img.shields.io/badge/electron-black?style=flat-square&logo=electron)
 ![react-native](https://img.shields.io/badge/react_native-black?style=flat-square&logo=react)
 ![angular](https://img.shields.io/badge/angular-black?style=flat-square&logo=angular&logoColor=DD0031)
-![spring](https://img.shields.io/badge/spring-black?style=flat-square&logo=spring)
-![hibernate](https://img.shields.io/badge/hibernate-black?style=flat-square&logo=hibernate)
 ![express](https://img.shields.io/badge/express-black?style=flat-square&logo=express)
 ![puppeteer](https://img.shields.io/badge/puppeteer-black?style=flat-square&logo=puppeteer)
 ![selenium](https://img.shields.io/badge/selenium-black?style=flat-square&logo=selenium)
