@@ -18,9 +18,9 @@
 
 ### Languages
 
+![java](https://custom-icon-badges.herokuapp.com/badge/java-black.svg?logo=java&logoColor=white&style=flat-square)
 ![javascript](https://img.shields.io/badge/javascript-black?style=flat-square&logo=javascript)
 ![typescript](https://img.shields.io/badge/typescript-black?style=flat-square&logo=typescript)
-![java](https://custom-icon-badges.herokuapp.com/badge/java-black.svg?logo=java&logoColor=white&style=flat-square)
 ![python](https://img.shields.io/badge/python-black?style=flat-square&logo=python)
 ![bash](https://img.shields.io/badge/bash-black?style=flat-square&logo=gnu-bash)
 
