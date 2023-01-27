@@ -27,6 +27,7 @@
 ### Technologies & Frameworks
 
 ![spring](https://img.shields.io/badge/spring-black?style=flat-square&logo=spring)
+![nest](https://img.shields.io/badge/nest-black?style=flat-square&logo=nestjs)
 ![hibernate](https://img.shields.io/badge/hibernate-black?style=flat-square&logo=hibernate)
 ![css3](https://img.shields.io/badge/css3-black?style=flat-square&logo=css3&logoColor=1572B6)
 ![html5](https://img.shields.io/badge/html5-black?style=flat-square&logo=html5)
