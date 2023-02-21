@@ -56,6 +56,7 @@
 ![windows](https://img.shields.io/badge/windows-black?style=flat-square&logo=windows&logoColor=0078D6)
 ![linux](https://img.shields.io/badge/linux-black?style=flat-square&logo=linux)
 ![github](https://img.shields.io/badge/github-black?style=flat-square&logo=github)
+![gitlab](https://img.shields.io/badge/gitlab-black?style=flat-square&logo=gitlab)
 ![github actions](https://img.shields.io/badge/github_actions-black?style=flat-square&logo=github-actions)
 ![docker](https://img.shields.io/badge/docker-black?style=flat-square&logo=docker)
 ![postgresql](https://img.shields.io/badge/postgresql-black?style=flat-square&logo=postgresql)
