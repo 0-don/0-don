@@ -34,6 +34,7 @@
 ![html5](https://img.shields.io/badge/html5-black?style=flat-square&logo=html5)
 ![tailwindcss](https://img.shields.io/badge/tailwindcss-black?style=flat-square&logo=tailwindcss)
 ![react](https://img.shields.io/badge/react-black?style=flat-square&logo=react)
+![solid](ttps://img.shields.io/badge/solid-black?style=flat-square&logo=solid&&logoColor=4D84C4)
 ![next.js](https://img.shields.io/badge/next.js-black?style=flat-square&logo=next.js)
 ![node.js](https://img.shields.io/badge/node.js-black?style=flat-square&logo=node.js)
 ![prisma](https://img.shields.io/badge/prisma-black?style=flat-square&logo=prisma&logoColor=2D3748)
