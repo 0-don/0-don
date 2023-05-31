@@ -55,6 +55,7 @@
 ![vscode](https://img.shields.io/badge/vscode-black?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
 ![intellij](https://img.shields.io/badge/intellij-black?style=flat-square&logo=intellij-idea)
 ![datagrip](https://img.shields.io/badge/datagrip-black?style=flat-square&logo=datagrip&logoColor=28D28D)
+![outlook](https://custom-icon-badges.herokuapp.com/badge/outlook-black.svg?logo=outlook&logoColor=blue&style=flat-square)
 ![git](https://img.shields.io/badge/git-black?style=flat-square&logo=git)
 ![windows](https://img.shields.io/badge/windows-black?style=flat-square&logo=windows&logoColor=0078D6)
 ![linux](https://img.shields.io/badge/linux-black?style=flat-square&logo=linux)
