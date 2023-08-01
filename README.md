@@ -122,7 +122,7 @@
       <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=don-cryptus&repo=clips&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
     </a>
     <a href="https://github.com/Don-Cryptus/privnote">
-      <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=don-cryptus&privnote&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
+      <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=don-cryptus&repo=privnote&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
     </a>
   </p>
   <p align="center">
