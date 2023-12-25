@@ -24,7 +24,7 @@
 ![python](https://img.shields.io/badge/python-black?style=flat-square&logo=python)
 ![bash](https://img.shields.io/badge/bash-black?style=flat-square&logo=gnu-bash)
 
-### Technologies & Frameworks
+### Technologies && Frameworks
 
 ![spring](https://img.shields.io/badge/spring-black?style=flat-square&logo=spring)
 ![nest](https://img.shields.io/badge/nest-black?style=flat-square&logo=nestjs)
