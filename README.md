@@ -24,7 +24,7 @@
 ![python](https://img.shields.io/badge/python-black?style=flat-square&logo=python)
 ![bash](https://img.shields.io/badge/bash-black?style=flat-square&logo=gnu-bash)
 
-### Technologies && Frameworks
+### Technologies & Frameworks
 
 ![spring](https://img.shields.io/badge/spring-black?style=flat-square&logo=spring)
 ![nest](https://img.shields.io/badge/nest-black?style=flat-square&logo=nestjs)
@@ -36,6 +36,7 @@
 ![solid](https://img.shields.io/badge/solid-black?style=flat-square&logo=solid&&logoColor=4D84C4)
 ![next.js](https://img.shields.io/badge/next.js-black?style=flat-square&logo=next.js)
 ![node.js](https://img.shields.io/badge/node.js-black?style=flat-square&logo=node.js)
+![bun](https://img.shields.io/badge/bun-black?style=flat-square&logo=bun)
 ![prisma](https://img.shields.io/badge/prisma-black?style=flat-square&logo=prisma&logoColor=2D3748)
 ![graphql](https://img.shields.io/badge/graphql-black?style=flat-square&logo=graphql&logoColor=E10098)
 ![apollo](https://img.shields.io/badge/apollo-black?style=flat-square&logo=apollo-graphql)
@@ -64,11 +65,13 @@
 ![github actions](https://img.shields.io/badge/github_actions-black?style=flat-square&logo=github-actions)
 ![docker](https://img.shields.io/badge/docker-black?style=flat-square&logo=docker)
 ![postgresql](https://img.shields.io/badge/postgresql-black?style=flat-square&logo=postgresql)
+![redis](https://img.shields.io/badge/redis-black?style=flat-square&logo=redis)
 ![mongodb](https://img.shields.io/badge/mongodb-black?style=flat-square&logo=mongodb)
 ![mysql](https://img.shields.io/badge/mysql-black?style=flat-square&logo=mysql)
 ![firebase](https://img.shields.io/badge/firebase-black?style=flat-square&logo=firebase)
 ![android](https://img.shields.io/badge/android-black?style=flat-square&logo=android)
 ![gitkraken](https://img.shields.io/badge/gitkraken-black?style=flat-square&logo=gitkraken)
+![gitkraken](https://img.shields.io/badge/postman-black?style=flat-square&logo=postman)
 ![bitwarden](https://img.shields.io/badge/bitwarden-black?style=flat-square&logo=bitwarden&logoColor=175DDC)
 ![wordpress](https://img.shields.io/badge/wordpress-black?style=flat-square&logo=wordpress)
 ![joomla](https://img.shields.io/badge/joomla-black?style=flat-square&logo=joomla)
