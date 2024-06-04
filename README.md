@@ -37,6 +37,7 @@
 ![next.js](https://img.shields.io/badge/next.js-black?style=flat-square&logo=next.js)
 ![node.js](https://img.shields.io/badge/node.js-black?style=flat-square&logo=node.js)
 ![bun](https://img.shields.io/badge/bun-black?style=flat-square&logo=bun)
+![tauri](https://img.shields.io/badge/tauri-black?style=flat-square&logo=tauri)
 ![prisma](https://img.shields.io/badge/prisma-black?style=flat-square&logo=prisma&logoColor=2D3748)
 ![graphql](https://img.shields.io/badge/graphql-black?style=flat-square&logo=graphql&logoColor=E10098)
 ![apollo](https://img.shields.io/badge/apollo-black?style=flat-square&logo=apollo-graphql)
@@ -48,6 +49,7 @@
 ![socketio](https://custom-icon-badges.herokuapp.com/badge/socketio-black.svg?logo=socketio&logoColor=white&style=flat-square)
 ![express](https://img.shields.io/badge/express-black?style=flat-square&logo=express)
 ![puppeteer](https://img.shields.io/badge/puppeteer-black?style=flat-square&logo=puppeteer)
+![cypress](https://img.shields.io/badge/cypress-black?style=flat-square&logo=cypress)
 ![selenium](https://img.shields.io/badge/selenium-black?style=flat-square&logo=selenium)
 ![bootstrap](https://img.shields.io/badge/bootstrap-black?style=flat-square&logo=bootstrap)
 
