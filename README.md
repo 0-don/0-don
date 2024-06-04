@@ -45,6 +45,7 @@
 ![electron](https://img.shields.io/badge/electron-black?style=flat-square&logo=electron)
 ![javafx](https://custom-icon-badges.herokuapp.com/badge/javafx-black.svg?logo=java&logoColor=white&style=flat-square)
 ![react-native](https://img.shields.io/badge/react_native-black?style=flat-square&logo=react)
+![expo](https://img.shields.io/badge/expo-black?style=flat-square&logo=expo)
 ![angular](https://img.shields.io/badge/angular-black?style=flat-square&logo=angular&logoColor=DD0031)
 ![socketio](https://custom-icon-badges.herokuapp.com/badge/socketio-black.svg?logo=socketio&logoColor=white&style=flat-square)
 ![express](https://img.shields.io/badge/express-black?style=flat-square&logo=express)
