@@ -104,14 +104,6 @@
      <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=0-don&repo=coding.global-web&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
     </a>
   </p>
-  <p align="center">
-    <a href="https://github.com/0-don/DiscordCustomUrlSniper">
-      <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=0-don&repo=DiscordCustomUrlSniper&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
-    </a>
-    <a href="https://github.com/0-don/DisboardBumpBot">
-      <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=0-don&repo=DisboardBumpBot&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
-    </a>
-</p>
 </details>
 
 <details>
@@ -127,9 +119,6 @@
 
   </p>
   <p align="center">
-    <a href="https://github.com/0-don/clips">
-      <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=0-don&repo=clips&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
-    </a>
     <a href="https://github.com/0-don/palarm">
       <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=0-don&repo=palarm&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
     </a>
