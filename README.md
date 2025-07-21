@@ -30,7 +30,7 @@
 ![spring](https://img.shields.io/badge/spring-black?style=flat-square&logo=spring)
 ![nest](https://img.shields.io/badge/nest-black?style=flat-square&logo=nestjs)
 ![hibernate](https://img.shields.io/badge/hibernate-black?style=flat-square&logo=hibernate)
-![css3](https://img.shields.io/badge/css3-black?style=flat-square&logo=css3&logoColor=1572B6)
+![css3](https://img.shields.io/badge/css-black?style=flat-square&logo=css&logoColor=1572B6)
 ![html5](https://img.shields.io/badge/html5-black?style=flat-square&logo=html5)
 ![tailwindcss](https://img.shields.io/badge/tailwindcss-black?style=flat-square&logo=tailwindcss)
 ![react](https://img.shields.io/badge/react-black?style=flat-square&logo=react)
@@ -58,12 +58,12 @@
 
 ### DevOps & Tools
 
-![vscode](https://img.shields.io/badge/vscode-black?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
+![vscode](https://custom-icon-badges.herokuapp.com/badge/vscode-black.svg?logo=visual-studio-code&logoColor=007ACC&style=flat-square)
 ![intellij](https://img.shields.io/badge/intellij-black?style=flat-square&logo=intellij-idea)
 ![datagrip](https://img.shields.io/badge/datagrip-black?style=flat-square&logo=datagrip&logoColor=28D28D)
 ![outlook](https://custom-icon-badges.herokuapp.com/badge/outlook-black.svg?logo=outlook&logoColor=blue&style=flat-square)
 ![git](https://img.shields.io/badge/git-black?style=flat-square&logo=git)
-![windows](https://img.shields.io/badge/windows-black?style=flat-square&logo=windows&logoColor=0078D6)
+![windows](https://custom-icon-badges.herokuapp.com/badge/windows-black.svg?logo=windows&logoColor=0078D6&style=flat-square)
 ![linux](https://img.shields.io/badge/linux-black?style=flat-square&logo=linux)
 ![github](https://img.shields.io/badge/github-black?style=flat-square&logo=github)
 ![gitlab](https://img.shields.io/badge/gitlab-black?style=flat-square&logo=gitlab)
@@ -77,7 +77,7 @@
 ![firebase](https://img.shields.io/badge/firebase-black?style=flat-square&logo=firebase)
 ![android](https://img.shields.io/badge/android-black?style=flat-square&logo=android)
 ![gitkraken](https://img.shields.io/badge/gitkraken-black?style=flat-square&logo=gitkraken)
-![gitkraken](https://img.shields.io/badge/postman-black?style=flat-square&logo=postman)
+![postman](https://img.shields.io/badge/postman-black?style=flat-square&logo=postman)
 ![bitwarden](https://img.shields.io/badge/bitwarden-black?style=flat-square&logo=bitwarden&logoColor=175DDC)
 ![wordpress](https://img.shields.io/badge/wordpress-black?style=flat-square&logo=wordpress)
 ![joomla](https://img.shields.io/badge/joomla-black?style=flat-square&logo=joomla)
