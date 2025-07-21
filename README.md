@@ -184,3 +184,16 @@
     </a>
   </p>
 </details>
+
+<details>
+  <summary><b>🔌 &nbsp;IDE Plugins</b></summary>
+  <br/>
+  <p align="center">
+    <a href="https://github.com/0-don/code-collector">
+      <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=0-don&repo=code-collector&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
+    </a>
+    <a href="https://github.com/0-don/code-collector-jetbrains">
+      <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=0-don&repo=code-collector-jetbrains&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
+    </a>
+  </p>
+</details>
