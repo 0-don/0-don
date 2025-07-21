@@ -53,6 +53,7 @@
 ![puppeteer](https://img.shields.io/badge/puppeteer-black?style=flat-square&logo=puppeteer)
 ![cypress](https://img.shields.io/badge/cypress-black?style=flat-square&logo=cypress)
 ![selenium](https://img.shields.io/badge/selenium-black?style=flat-square&logo=selenium)
+![playwright](https://custom-icon-badges.herokuapp.com/badge/playwright-black.svg?logo=playwright&logoColor=white&style=flat-square)
 ![bootstrap](https://img.shields.io/badge/bootstrap-black?style=flat-square&logo=bootstrap)
 
 ### DevOps & Tools
